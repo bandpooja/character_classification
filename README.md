@@ -11,8 +11,7 @@ All the code is in `character_classification.ipynb` and some of the other items 
     ```batch
     conda env create -f env.yml
     ```
-2. The notebook assumes that the data-folders for the task-2, subtask-1 and 3 are present in the location
-    ![alt text](./static/data.png).
+2. The notebook assumes that the data-folders for the task-2, subtask-1 and 3 are present in the location.
     
 3. The network and models are fairly small and thus have been pushed to the repository. Model checkpoints are all present in directory **/models**
 
@@ -32,7 +31,7 @@ All the code is in `character_classification.ipynb` and some of the other items 
 
 The test accuracy for sub-task 1 for my network is **63.44%**
 
-![alt text](./static/final_CM.png)
+![alt text](./final_CM.png)
 
 Where the model lacked, involved a lot of possible confusions to naked-eye is well like `capital and small alphabets`,
 other confusions include confusion between `o, 0, O, Q`; confusion between `B, 8` etc.
