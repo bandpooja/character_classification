@@ -1,6 +1,5 @@
-# MIDAS - coding problem
+# Character Classification
  
-## TASK 2
 
 The repository is an attempt to solve the challenge given by MIDAS for their internship program.
 
@@ -29,7 +28,7 @@ All the code is in `character_classification.ipynb` and some of the other items 
 
  - Data for [testing subtask-1](https://www.dropbox.com/s/qg95ta6dm3f1mek/testPart1.zip?dl=0&file_subpath=%2Ftest%2FSample053)  
 
-### SUBTASK-1: Test evaluation 
+### Test evaluation 
 
 The test accuracy for sub-task 1 for my network is **63.44%**
 
